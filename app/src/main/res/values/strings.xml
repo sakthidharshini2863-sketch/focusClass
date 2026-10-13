@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FocusClass</string>
+    <string name="accessibility_service_name">FocusClass App Restriction Service</string>
+    <string name="accessibility_service_description">Monitors foreground applications during scheduled classroom focus sessions and prevents distractions by intercepting restricted apps configured by the teacher.</string>
+</resources>

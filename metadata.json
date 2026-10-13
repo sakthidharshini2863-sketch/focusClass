@@ -1,0 +1,6 @@
+{
+  "name": "FocusClass",
+  "description": "Smart classroom distraction manager enabling teachers to enforce real-time app restrictions during lecture hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
